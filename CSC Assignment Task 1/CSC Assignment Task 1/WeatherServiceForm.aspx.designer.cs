@@ -7,11 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CSC_Assignment_Task_1
-{
-
-
-    public partial class WeatherServiceForm
-    {
+namespace CSC_Assignment1_Task_1 {
+    
+    
+    public partial class WeatherServiceForm {
     }
 }

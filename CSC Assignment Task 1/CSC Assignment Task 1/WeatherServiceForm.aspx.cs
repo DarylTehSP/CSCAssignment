@@ -8,56 +8,60 @@ using System.Web.UI.WebControls;
 using System.Xml;
 using System.Text.Json;
 
-namespace CSC_Assignment_Task_1
+namespace CSC_Assignment1_Task_1
 {
     public partial class WeatherServiceForm : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-           
-            // Creating Get Reuquest URL String for NEA Weather Service
+            //https://api.data.gov.sg/v1/environment/24-hour-weather-forecast
+
             UriBuilder url = new UriBuilder();
             url.Scheme = "https";
 
-            url.Host = "api.gov.data.sg";
+            url.Host = "api.data.gov.sg";
             url.Path = "v1/environment/24-hour-weather-forecast";
-            url.Query = "date=2020-12-21";
+            //url.Query = "date=2020-12-21";
 
+            ////HTTP request to Singapore NEA 24-hour Weather Forecast web service
             JsonDocument wsResponseJsonDoc = MakeRequest(url.ToString());
-
-            if(wsResponseJsonDoc!= null)
+            Console.WriteLine(wsResponseJsonDoc);
+            if (wsResponseJsonDoc != null)
             {
-                JsonElement content = wsResponseJsonDoc.RootElement;
+                //display the JSON response for user
+                JsonElement jsonContent = wsResponseJsonDoc.RootElement;
                 Response.ContentType = "application/json";
-                Response.Write(content.ToString());
+                Response.Write(jsonContent.ToString());
             }
             else
             {
-                Response.ContentType = "application/json";
-                Response.Write("<h2> error accessing web service </h2>");
+                Response.ContentType = "text/html";
+                Response.Write("<h2> Error accessing web service! </h2>");
             }
         }
 
-        public static JsonDocument MakeRequest(string url)
+        public static JsonDocument MakeRequest(string requestUrl)
+        // public static XmlDocument MakeRequest(string requestUrl)
         {
             try
             {
-                HttpWebRequest request = WebRequest.Create(url) as HttpWebRequest;
+                HttpWebRequest request = WebRequest.Create(requestUrl) as HttpWebRequest;
 
+                //Set timeout to 15 seconds
                 request.Timeout = 15 * 1000;
                 request.KeepAlive = false;
-                
                 HttpWebResponse response = request.GetResponse() as HttpWebResponse;
                 Console.WriteLine(response.StatusCode);
+
                 JsonDocument jsonDoc = JsonDocument.Parse(response.GetResponseStream());
                 return jsonDoc;
 
-            }catch (Exception e)    
+            }
+            catch (Exception e)
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine(e.ToString());
                 return null;
             }
         }
-
     }
 }
