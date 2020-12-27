@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <button id="invokeAPI">Invoke API</button>
+    <p id="content">
+
+    </p>
+</body>
+</html>
+<script src="Scripts/jquery-3.4.1.js"></script>
+<script>
+    let host = "https://api.data.gov.sg"
+    let path = "v1/environment/24-hour-weather-forecast"
+    $('#invokeAPI').on('click', function () {
+        $.ajax({
+            url: host + '/' + path,
+            method: 'get',
+            dataType: 'json',
+            success: function (response) {
+                if (response.message != null) {
+                    resultElement.html("error" + response.message);
+                }
+                else {
+                    var date = response.items[0].timestamp
+                    var weather = response.items[0].general.forecast
+                    $('#content').html('Date: ' + date + '</br>' + 'Forecast: '+weather)
+                }
+            },
+            error: function (err) {
+                alert(err);
+            }
+
+        })
+    })
+
+</script>
