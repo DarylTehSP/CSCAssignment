@@ -49,12 +49,12 @@ namespace Task_5.APIs
 
                 string aws_photo_key = Guid.NewGuid().ToString();
 
-                string aws_s3_bucket = "ruri";
+                string aws_s3_bucket = "ruriichigyou";
 
                 // PLEASE DELETE BEFORE COMMIT
-                string aws_access_id = "";
-                string aws_access_key = "";
-                string aws_access_token = "";
+                string aws_access_id = "ASIAVIZ5F3FFPCPMS44P";
+                string aws_access_key = "B/IIpg9SDMjqPrS9pb1ZJcGv+I8V9fDKmSYdiEHY";
+                string aws_access_token = "FwoGZXIvYXdzEJr//////////wEaDDlCzYO0BuSJkYqiYyLJAZGuOAGD05lM0HF1xTsRdT7Iadi4eh2yqaSxLYJhYP2e3sJ2ekLbniuP/7dRhnOVNGL4qAQG3bscMxJNeyNkcP6uYJYy8QAXRqvtZadE4V5/2GLIgpbMWjHOaj9e3uGwVT56pw+TthCP91hJGrh+tIczYBQ9emGtXQk6Fr5RiCrxxrLfWvCx7n/O9fgHpif2Zr4j7k8c6F1p9x1EvDqnv3jVYHT5yoFcMxbCETi0ZcgG1SHRFUqxT2u682UuIlU/Pca0U+xpzktkvii4rqb/BTItVpGc6SbNvN42gFkn0EnPcNMlBXIvWrJLD3KC6e4SSH8Uw/4I6zgk5Lyg6fIO";
 
                 SessionAWSCredentials aws_access_cred = new SessionAWSCredentials(aws_access_id, aws_access_key, aws_access_token);
 
@@ -79,8 +79,9 @@ namespace Task_5.APIs
                 request.Timeout = 15 * 1000;
                 request.KeepAlive = false;
                 request.Headers.Add("Authorization", String.Format("Bearer {0}", bitly_token));
-
-                using (var streamWriter = new StreamWriter(request.GetRequestStream()))
+                request.ContentType = "application/json";
+                request.Method = "POST";
+                using (StreamWriter streamWriter = new StreamWriter(request.GetRequestStream()))
                 {
 
                     string jsonRequestData = JsonSerializer.Serialize(new { long_url = s3_url });

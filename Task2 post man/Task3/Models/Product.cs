@@ -10,7 +10,7 @@ namespace Task3.Models
     {
         public int Id { get; set; }
         [Required]
-        [RegularExpression("^[A-Z]+$",ErrorMessage = "Must be uppercase ")]
+        [RegularExpression("^[A-Z][a-zA-Z0-9]*$", ErrorMessage = "Must be uppercase ")]
         [MaxLength(30,ErrorMessage = "Must be Maximum 30 characters")]
         public string Name { get; set; }
         public string Category { get; set; }
