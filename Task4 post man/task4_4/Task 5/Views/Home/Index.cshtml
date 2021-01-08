@@ -1,0 +1,65 @@
+﻿<div class="row">
+    <div class="col">
+        <form>
+            <div class="mb-3">
+                <label for="formFile" class="form-label">Choose Photo</label>
+                <input class="form-control" type="file" id="formFile" accept="image/jpeg, image/png">
+            </div>
+            <div class="mb-3">
+                <input class="form-control" type="submit" id="submitPhoto">
+            </div>
+        </form>
+    </div>
+    <div class="col">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Shortened Link:</h5>
+                <div class="card-text spinner-border" style="color:deeppink" id="spinner"></div>
+                <p class="card-text" id="result"></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts { 
+    <script>
+        $(() => {
+            $('#spinner').hide();
+            $("#submitPhoto").click((e) => {
+                e.preventDefault();
+
+                let fileList = $("#formFile")[0].files;
+                let file = fileList[0];
+                let $result = $("#result")
+                if (file !== undefined) {
+                    let formData = new FormData();
+                    formData.append("photo", file);
+
+                    $.ajax({
+                        url: "https://localhost:44346/api/upload",
+                        method: "POST",
+                        processData: false,
+                        contentType: false,
+                        data: formData,
+                        beforeSend: function () {
+                            $('#spinner').show();
+                            $result.text("");
+                        },
+                        complete: function () {
+                            $('#spinner').hide();
+                        },
+                    }).done((data) => {
+                        console.log(data)
+                        $result.html(`<a href=${data.shortlink} target="_blank">${data.shortlink}</a>`);
+                    }).fail(() => {
+                        $result.text("Some error occured.")
+                    })
+                } else {
+                    $result.text("No file was selected.")
+                }
+              
+
+            })
+        })
+    </script>
+}

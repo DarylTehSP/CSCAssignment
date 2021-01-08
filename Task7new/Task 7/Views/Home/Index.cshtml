@@ -1,0 +1,139 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clarifai Workflow API Demo</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli" />
+    <script type="text/javascript" src="https://sdk.clarifai.com/js/clarifai-latest.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <h1 class="header-text">Analyze My Image!</h1>
+    </header>
+    <div class="container">
+        <div class="upload-photo">
+            <input class="file-upload" type="file" onchange="uploadImage()">
+            <div class="photo-container">
+                <img class="photo" src="" alt="Image preview">
+            </div>
+        </div>
+        <div class="analysis" id="analysis">
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+<style>
+    body {
+        font-family: "Muli";
+        margin: 0;
+    }
+
+    .header {
+        background-color: #2E68FB;
+        height: 100%;
+        margin: 0;
+        padding: 2vh 1vw;
+        color: white;
+    }
+
+    .header-text {
+        margin: 0;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: row;
+        margin: 2vh 2vw;
+    }
+
+    .upload-photo {
+        margin-right: 4vw;
+    }
+
+    .file-upload {
+        margin-bottom: 2vh;
+    }
+
+    .analysis {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .modal-container {
+        width: 30vw;
+        margin: 1vh 1vw;
+    }
+
+    .photo {
+        display: none;
+        width: 20vw;
+    }
+
+</style>
+
+
+
+<script>
+    var clarifaiApiKey = 'c191a51fc9764331af16fc0bf4995dd2';
+    var workflowId = 'task7workflowID';
+
+    var app = new Clarifai.App({
+        apiKey: clarifaiApiKey
+    });
+
+    // Handles image upload
+    function uploadImage() {
+        var preview = document.querySelector('img');
+        var file = document.querySelector('input[type=file]').files[0];
+        var reader = new FileReader();
+        var imageData;
+
+        reader.addEventListener("load", function () {
+            preview.src = reader.result;
+            imageData = reader.result;
+            imageData = imageData.replace(/^data:image\/(.*);base64,/, '');
+            predictFromWorkflow(imageData);
+        }, false);
+
+        
+
+        if (file) {
+            reader.readAsDataURL(file);
+            preview.style.display = "inherit";
+        }
+    }
+
+    // Analyzes image provided with Clarifai's Workflow API
+    function predictFromWorkflow(photoUrl) {
+        app.workflow.predict(workflowId, { base64: photoUrl }).then(
+            function (response) {
+                var outputs = response.results[0].outputs;
+                var analysis = $(".analysis");
+
+                analysis.empty();
+                console.log(outputs);
+
+                var result = outputs[0].data.text.raw;
+                analysis.append(result);
+            },
+            function (err) {
+                console.log(err);
+            }
+        );
+    }
+
+
+</script>

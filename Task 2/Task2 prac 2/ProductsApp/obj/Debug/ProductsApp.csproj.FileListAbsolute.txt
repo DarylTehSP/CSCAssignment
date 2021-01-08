@@ -1,0 +1,335 @@
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\csc.exe
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\csi.exe
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\csi.exe.config
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Console.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Web.Cors.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.Cors.dll
+C:\Users\tanko\source\repos\ProductsApp\ProductsApp\bin\System.Web.Http.Cors.xml
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\ProductsApp.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Web.Cors.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Web.Http.Cors.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Web.Http.Cors.xml
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+C:\Users\ASUS\Desktop\CSC\Assignment 1\Task2\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\ProductsApp.dll.config
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\ProductsApp.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\ProductsApp.pdb
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csc.exe
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csc.exe.config
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csc.rsp
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csi.exe
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csi.exe.config
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csi.rsp
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.AppContext.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Console.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Claims.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\vbc.exe
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\vbc.exe.config
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\vbc.rsp
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\Newtonsoft.Json.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Cors.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.Cors.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.Cors.xml
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\Newtonsoft.Json.xml
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.xml
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.dll
+D:\Downloads\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.pdb
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\ProductsApp.dll.config
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\ProductsApp.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\ProductsApp.pdb
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csc.exe
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csc.exe.config
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csc.rsp
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csi.exe
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csi.exe.config
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\csi.rsp
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.AppContext.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Console.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.Compression.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.IO.Pipes.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.AccessControl.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Claims.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.ValueTuple.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Xml.XPath.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\vbc.exe
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\vbc.exe.config
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\vbc.rsp
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\VBCSCompiler.exe
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\Newtonsoft.Json.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Cors.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.Cors.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.Cors.xml
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\Newtonsoft.Json.xml
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.xml
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.dll
+D:\SP stuff\CSC\CSC_CA1_DarienLimGuoDong_P1727414\CSC_CA1_DarienLimGuoDong_P1727414\Task2\ProductsApp\obj\Debug\ProductsApp.pdb
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\ProductsApp.dll.config
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\ProductsApp.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\ProductsApp.pdb
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\csc.exe
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\csc.exe.config
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\csc.rsp
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\csi.exe
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\csi.exe.config
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\csi.rsp
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.AppContext.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Collections.Immutable.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Console.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.IO.Compression.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.IO.FileSystem.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.IO.Pipes.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Security.AccessControl.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Security.Claims.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.ValueTuple.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Xml.XPath.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\vbc.exe
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\vbc.exe.config
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\vbc.rsp
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\VBCSCompiler.exe
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\roslyn\VBCSCompiler.exe.config
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\Newtonsoft.Json.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Web.Cors.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Web.Http.Cors.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Web.Http.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Web.Http.Cors.xml
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\Newtonsoft.Json.xml
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Web.Http.xml
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\SP stuff\CSC\teh\Task2\ProductsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SP stuff\CSC\teh\Task2\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+D:\SP stuff\CSC\teh\Task2\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
+D:\SP stuff\CSC\teh\Task2\ProductsApp\obj\Debug\ProductsApp.csproj.CopyComplete
+D:\SP stuff\CSC\teh\Task2\ProductsApp\obj\Debug\ProductsApp.dll
+D:\SP stuff\CSC\teh\Task2\ProductsApp\obj\Debug\ProductsApp.pdb
