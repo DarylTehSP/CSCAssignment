@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Stripe Checkout Sample</title>
+    <meta name="description" content="A demo of Stripe Payment Intents" />
+
+    @*<link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/global.css" />*@
+    <!-- Load Stripe.js on your website. -->
+</head>
+
+<body>
+    <div class="togethere-background"></div>
+    <div class="sr-root">
+        <div class="sr-main">
+            <header class="sr-header">
+                <div class="sr-header__logo"></div>
+            </header>
+            <h1>Choose a collaboration plan</h1>
+
+            <div class="price-table-container">
+                <section>
+                    <img src="/img/Abso Gloive.png"
+                         width="120"
+                         height="120" />
+                    <div class="name">Starter</div>
+                    <div class="price">$5</div>
+                    <div class="duration">per Day</div>
+                    <button id="basic-plan-btn">Select</button>
+                </section>
+                <section>
+                    <img src="/img/ACS Glove.png"
+                         width="120"
+                         height="120" />
+                    <div class="name">Professional</div>
+                    <div class="price">$70</div>
+                    <div class="duration">per Day</div>
+                    <button id="pro-plan-btn">Select</button>
+                </section>
+            </div>
+        </div>
+    </div>
+    <div id="error-message" class="error-message"></div>
+</body>
+</html>
+@section Scripts{
+    <script src="https://js.stripe.com/v3/"></script>
+    <script>
+        // If a fetch error occurs, log it to the console and show it in the UI.
+        var handleFetchResult = function (result) {
+            if (!result.ok) {
+                return result.json().then(function (json) {
+                    if (json.error && json.error.message) {
+                        throw new Error(result.url + ' ' + result.status + ' ' + json.error.message);
+                    }
+                }).catch(function (err) {
+                    showErrorMessage(err);
+                    throw err;
+                });
+            }
+            //var jsonCheck = result.json
+            console.log(result);
+            return result.json();
+        };
+
+        // Create a Checkout Session with the selected plan ID
+        var createCheckoutSession = function (priceId) {
+            return fetch("/create-checkout-session", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    priceId: priceId
+                })
+            }).then(function (result) {
+                return result.json();
+            });
+        };
+
+        // Handle any errors returned from Checkout
+        var handleResult = function (result) {
+            if (result.error) {
+                showErrorMessage(result.error.message);
+            }
+        };
+
+        var showErrorMessage = function (message) {
+            var errorEl = document.getElementById("error-message")
+            errorEl.textContent = message;
+            errorEl.style.display = "block";
+        };
+
+        /* Get your Stripe publishable key to initialize Stripe.js */
+        fetch("/setup")
+            .then(handleFetchResult)
+            .then(function (json) {
+                //console.log(json);
+                var publishableKey = json.publishableKey;
+                var basicPriceId = json.basicPrice;
+                var proPriceId = json.proPrice;
+
+                var stripe = Stripe(publishableKey);
+                // Setup event handler to create a Checkout Session when button is clicked
+                document
+                    .getElementById("basic-plan-btn")
+                    .addEventListener("click", function (evt) {
+                        createCheckoutSession(basicPriceId).then(function (data) {
+                            // Call Stripe.js method to redirect to the new Checkout page
+                            stripe
+                                .redirectToCheckout({
+                                    sessionId: data.sessionId
+                                })
+                                .then(handleResult);
+                        });
+                    });
+
+                // Setup event handler to create a Checkout Session when button is clicked
+                document
+                    .getElementById("pro-plan-btn")
+                    .addEventListener("click", function (evt) {
+                        createCheckoutSession(proPriceId).then(function (data) {
+                            // Call Stripe.js method to redirect to the new Checkout page
+                            stripe
+                                .redirectToCheckout({
+                                    sessionId: data.sessionId
+                                })
+                                .then(handleResult);
+                        });
+                    });
+            });
+    </script>
+}
