@@ -52,9 +52,9 @@ namespace Task_5.APIs
                 string aws_s3_bucket = "ruriichigyou";
 
                 // PLEASE DELETE BEFORE COMMIT
-                string aws_access_id = "ASIAVIZ5F3FFPCPMS44P";
-                string aws_access_key = "B/IIpg9SDMjqPrS9pb1ZJcGv+I8V9fDKmSYdiEHY";
-                string aws_access_token = "FwoGZXIvYXdzEJr//////////wEaDDlCzYO0BuSJkYqiYyLJAZGuOAGD05lM0HF1xTsRdT7Iadi4eh2yqaSxLYJhYP2e3sJ2ekLbniuP/7dRhnOVNGL4qAQG3bscMxJNeyNkcP6uYJYy8QAXRqvtZadE4V5/2GLIgpbMWjHOaj9e3uGwVT56pw+TthCP91hJGrh+tIczYBQ9emGtXQk6Fr5RiCrxxrLfWvCx7n/O9fgHpif2Zr4j7k8c6F1p9x1EvDqnv3jVYHT5yoFcMxbCETi0ZcgG1SHRFUqxT2u682UuIlU/Pca0U+xpzktkvii4rqb/BTItVpGc6SbNvN42gFkn0EnPcNMlBXIvWrJLD3KC6e4SSH8Uw/4I6zgk5Lyg6fIO";
+                string aws_access_id = "";
+                string aws_access_key = "";
+                string aws_access_token = "";
 
                 SessionAWSCredentials aws_access_cred = new SessionAWSCredentials(aws_access_id, aws_access_key, aws_access_token);
 
@@ -69,7 +69,7 @@ namespace Task_5.APIs
                 string s3_url = String.Format("https://{0}.s3.{1}.amazonaws.com/{2}", aws_s3_bucket, bucketRegion.SystemName, aws_photo_key);
 
                 // PLEASE DELETE BEFORE COMMIT
-                string bitly_token = "f6738b764139d4a7efac0484a0e65f98d1235762";
+                string bitly_token = "";
 
                 string requestUrl = "https://api-ssl.bitly.com/v4/shorten";
 
